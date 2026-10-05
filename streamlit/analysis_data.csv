@@ -1,0 +1,203 @@
+measurement_id,position_id,operation_id,wear_mm,visual_condition,measurement_date,tool_id,position_number,work_order_id,machine_id,operator_id,parts,cutting_time,rpm,parts_group,wear_status,material,insert_shape,chip_breaker,recommended_action
+1,P028,0000,0.1,Slight Whitening,2026-01-01,T008,2,W007,M002,OP001,68,1.8,2114,Medium,Monitor,Copper,Triangular,True,Monitor Tool
+2,P002,0001,0.107,Slight Whitening,2026-01-02,T001,2,W006,M004,OP004,61,3.17,3491,Medium,Monitor,Steel,Triangular,False,Monitor Tool
+3,P024,0001,0.104,Slight Whitening,2026-01-03,T007,2,W006,M004,OP004,61,3.17,3491,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+4,P025,0002,0.086,Normal,2026-01-04,T007,3,W002,M001,OP006,36,2.12,2198,Low,Normal,Steel,Romboid,False,Continue Production
+5,P013,0003,0.202,Visible Wear,2026-01-05,T004,2,W006,M005,OP002,93,8.1,1160,High,Replacement Recommend,Steel,Triangular,True,Replace Tool
+6,P020,0003,0.195,Slight Whitening,2026-01-06,T006,2,W006,M005,OP002,93,8.1,1160,High,Monitor,Steel,Romboid,False,Monitor Tool
+7,P015,0004,0.136,Slight Whitening,2026-01-07,T005,1,W005,M007,OP001,79,3.18,1198,High,Monitor,Steel,Romboid,False,Monitor Tool
+8,P003,0005,0.182,Slight Whitening,2026-01-08,T001,3,W004,M001,OP004,83,7.39,883,High,Monitor,Steel,Triangular,False,Monitor Tool
+9,P028,0005,0.165,Slight Whitening,2026-01-09,T008,2,W004,M001,OP004,83,7.39,883,High,Monitor,Steel,Triangular,True,Monitor Tool
+10,P031,0005,0.176,Slight Whitening,2026-01-10,T009,2,W004,M001,OP004,83,7.39,883,High,Monitor,Steel,Triangular,False,Monitor Tool
+11,P028,0006,0.2,Slight Whitening,2026-01-11,T008,2,W009,M005,OP007,80,9.02,1530,High,Replacement Recommend,Steel,Triangular,True,Replace Tool
+12,P007,0007,0.119,Slight Whitening,2026-01-12,T002,4,W001,M004,OP007,53,5.05,982,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+13,P008,0007,0.119,Slight Whitening,2026-01-13,T003,1,W001,M004,OP007,53,5.05,982,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+14,P012,0007,0.112,Slight Whitening,2026-01-14,T004,1,W001,M004,OP007,53,5.05,982,Medium,Monitor,Steel,Triangular,True,Monitor Tool
+15,P007,0008,0.124,Slight Whitening,2026-01-15,T002,4,W006,M003,OP007,59,4.86,1761,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+16,P027,0008,0.117,Slight Whitening,2026-01-16,T008,1,W006,M003,OP007,59,4.86,1761,Medium,Monitor,Steel,Triangular,True,Monitor Tool
+17,P012,0009,0.152,Slight Whitening,2026-01-17,T004,1,W007,M001,OP008,95,5.13,1190,High,Monitor,Copper,Triangular,True,Monitor Tool
+18,P015,0009,0.157,Slight Whitening,2026-01-18,T005,1,W007,M001,OP008,95,5.13,1190,High,Monitor,Copper,Romboid,False,Monitor Tool
+19,P023,0009,0.174,Slight Whitening,2026-01-19,T007,1,W007,M001,OP008,95,5.13,1190,High,Monitor,Copper,Romboid,False,Monitor Tool
+20,P024,0010,0.164,Slight Whitening,2026-01-20,T007,2,W005,M005,OP010,83,6.3,1828,High,Monitor,Steel,Romboid,False,Monitor Tool
+21,P007,0011,0.134,Slight Whitening,2026-01-21,T002,4,W003,M004,OP010,68,4.73,2979,Medium,Monitor,Aliminium,Romboid,True,Monitor Tool
+22,P008,0011,0.137,Slight Whitening,2026-01-22,T003,1,W003,M004,OP010,68,4.73,2979,Medium,Monitor,Aliminium,Romboid,False,Monitor Tool
+23,P020,0011,0.119,Slight Whitening,2026-01-23,T006,2,W003,M004,OP010,68,4.73,2979,Medium,Monitor,Aliminium,Romboid,False,Monitor Tool
+24,P007,0012,0.098,Normal,2026-01-24,T002,4,W008,M007,OP009,43,3.14,1152,Low,Normal,Copper,Romboid,True,Continue Production
+25,P012,0012,0.091,Normal,2026-01-25,T004,1,W008,M007,OP009,43,3.14,1152,Low,Normal,Copper,Triangular,True,Continue Production
+26,P025,0012,0.08,Normal,2026-01-26,T007,3,W008,M007,OP009,43,3.14,1152,Low,Normal,Copper,Romboid,False,Continue Production
+27,P006,0013,0.134,Slight Whitening,2026-01-27,T002,3,W003,M004,OP008,93,2.98,2862,High,Monitor,Aliminium,Romboid,True,Monitor Tool
+28,P009,0013,0.136,Slight Whitening,2026-01-28,T003,2,W003,M004,OP008,93,2.98,2862,High,Monitor,Aliminium,Romboid,False,Monitor Tool
+29,P032,0013,0.133,Slight Whitening,2026-01-29,T009,3,W003,M004,OP008,93,2.98,2862,High,Monitor,Aliminium,Triangular,False,Monitor Tool
+30,P024,0014,0.121,Slight Whitening,2026-01-30,T007,2,W001,M006,OP004,68,4.82,2692,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+31,P034,0014,0.134,Slight Whitening,2026-01-31,T010,2,W001,M006,OP004,68,4.82,2692,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+32,P010,0015,0.139,Slight Whitening,2026-02-01,T003,3,W003,M007,OP003,95,3.47,976,High,Monitor,Aliminium,Romboid,False,Monitor Tool
+33,P017,0015,0.153,Slight Whitening,2026-02-02,T005,3,W003,M007,OP003,95,3.47,976,High,Monitor,Aliminium,Romboid,False,Monitor Tool
+34,P036,0015,0.157,Slight Whitening,2026-02-03,T010,4,W003,M007,OP003,95,3.47,976,High,Monitor,Aliminium,Romboid,True,Monitor Tool
+35,P032,0016,0.112,Slight Whitening,2026-02-04,T009,3,W004,M004,OP003,79,2.03,3005,High,Monitor,Steel,Triangular,False,Monitor Tool
+36,P027,0017,0.114,Slight Whitening,2026-02-05,T008,1,W005,M003,OP009,46,4.43,1780,Low,Monitor,Steel,Triangular,True,Monitor Tool
+37,P008,0018,0.137,Slight Whitening,2026-02-06,T003,1,W009,M004,OP010,84,5.07,2554,High,Monitor,Steel,Romboid,False,Monitor Tool
+38,P022,0018,0.15,Slight Whitening,2026-02-07,T006,4,W009,M004,OP010,84,5.07,2554,High,Monitor,Steel,Romboid,False,Monitor Tool
+39,P027,0018,0.143,Slight Whitening,2026-02-08,T008,1,W009,M004,OP010,84,5.07,2554,High,Monitor,Steel,Triangular,True,Monitor Tool
+40,P020,0019,0.127,Slight Whitening,2026-02-09,T006,2,W010,M007,OP006,61,5.39,3127,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+41,P031,0019,0.142,Slight Whitening,2026-02-10,T009,2,W010,M007,OP006,61,5.39,3127,Medium,Monitor,Steel,Triangular,False,Monitor Tool
+42,P012,0020,0.063,Normal,2026-02-11,T004,1,W003,M004,OP007,31,1.28,2043,Low,Normal,Aliminium,Triangular,True,Continue Production
+43,P018,0020,0.061,Normal,2026-02-12,T005,4,W003,M004,OP007,31,1.28,2043,Low,Normal,Aliminium,Romboid,False,Continue Production
+44,P019,0020,0.062,Normal,2026-02-13,T006,1,W003,M004,OP007,31,1.28,2043,Low,Normal,Aliminium,Romboid,False,Continue Production
+45,P002,0021,0.17,Slight Whitening,2026-02-14,T001,2,W001,M006,OP001,96,7.09,1284,High,Monitor,Steel,Triangular,False,Monitor Tool
+46,P036,0021,0.196,Slight Whitening,2026-02-15,T010,4,W001,M006,OP001,96,7.09,1284,High,Monitor,Steel,Romboid,True,Monitor Tool
+47,P029,0022,0.073,Normal,2026-02-16,T008,3,W003,M007,OP006,25,2.26,2769,Low,Normal,Aliminium,Triangular,True,Continue Production
+48,P010,0023,0.155,Slight Whitening,2026-02-17,T003,3,W007,M005,OP006,89,6.1,3097,High,Monitor,Copper,Romboid,False,Monitor Tool
+49,P028,0023,0.178,Slight Whitening,2026-02-18,T008,2,W007,M005,OP006,89,6.1,3097,High,Monitor,Copper,Triangular,True,Monitor Tool
+50,P002,0024,0.171,Slight Whitening,2026-02-19,T001,2,W002,M005,OP008,74,8.5,2126,High,Monitor,Steel,Triangular,False,Monitor Tool
+51,P030,0024,0.161,Slight Whitening,2026-02-20,T009,1,W002,M005,OP008,74,8.5,2126,High,Monitor,Steel,Triangular,False,Monitor Tool
+52,P033,0024,0.171,Slight Whitening,2026-02-21,T010,1,W002,M005,OP008,74,8.5,2126,High,Monitor,Steel,Romboid,True,Monitor Tool
+53,P026,0025,0.16,Slight Whitening,2026-02-22,T007,4,W010,M003,OP002,50,8.15,1766,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+54,P002,0026,0.173,Slight Whitening,2026-02-23,T001,2,W010,M007,OP002,59,9.16,1808,Medium,Monitor,Steel,Triangular,False,Monitor Tool
+55,P011,0026,0.18,Slight Whitening,2026-02-24,T003,4,W010,M007,OP002,59,9.16,1808,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+56,P022,0026,0.166,Slight Whitening,2026-02-25,T006,4,W010,M007,OP002,59,9.16,1808,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+57,P002,0027,0.106,Slight Whitening,2026-02-26,T001,2,W001,M002,OP002,59,1.66,2306,Medium,Monitor,Steel,Triangular,False,Monitor Tool
+58,P036,0027,0.106,Slight Whitening,2026-02-27,T010,4,W001,M002,OP002,59,1.66,2306,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+59,P007,0028,0.172,Slight Whitening,2026-02-28,T002,4,W010,M005,OP008,66,8.63,1456,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+60,P020,0028,0.176,Slight Whitening,2026-03-01,T006,2,W010,M005,OP008,66,8.63,1456,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+61,P018,0029,0.105,Slight Whitening,2026-03-02,T005,4,W003,M002,OP003,21,7.77,1221,Low,Monitor,Aliminium,Romboid,False,Monitor Tool
+62,P029,0029,0.126,Slight Whitening,2026-03-03,T008,3,W003,M002,OP003,21,7.77,1221,Low,Monitor,Aliminium,Triangular,True,Monitor Tool
+63,P001,0030,0.091,Normal,2026-03-04,T001,1,W009,M005,OP003,45,3.01,1191,Low,Normal,Steel,Triangular,False,Continue Production
+64,P018,0030,0.079,Normal,2026-03-05,T005,4,W009,M005,OP003,45,3.01,1191,Low,Normal,Steel,Romboid,False,Continue Production
+65,P031,0030,0.101,Slight Whitening,2026-03-06,T009,2,W009,M005,OP003,45,3.01,1191,Low,Monitor,Steel,Triangular,False,Monitor Tool
+66,P003,0031,0.149,Slight Whitening,2026-03-07,T001,3,W007,M005,OP001,100,2.86,2656,High,Monitor,Copper,Triangular,False,Monitor Tool
+67,P022,0032,0.126,Slight Whitening,2026-03-08,T006,4,W010,M002,OP009,33,6.4,1673,Low,Monitor,Steel,Romboid,False,Monitor Tool
+68,P009,0033,0.198,Slight Whitening,2026-03-09,T003,2,W010,M001,OP008,90,7.87,3347,High,Monitor,Steel,Romboid,False,Monitor Tool
+69,P027,0033,0.183,Slight Whitening,2026-03-10,T008,1,W010,M001,OP008,90,7.87,3347,High,Monitor,Steel,Triangular,True,Monitor Tool
+70,P035,0033,0.173,Slight Whitening,2026-03-11,T010,3,W010,M001,OP008,90,7.87,3347,High,Monitor,Steel,Romboid,True,Monitor Tool
+71,P004,0034,0.174,Slight Whitening,2026-03-12,T002,1,W006,M006,OP003,72,8.28,2207,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+72,P017,0035,0.129,Slight Whitening,2026-03-13,T005,3,W005,M004,OP006,50,7.55,3040,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+73,P035,0035,0.129,Slight Whitening,2026-03-14,T010,3,W005,M004,OP006,50,7.55,3040,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+74,P031,0036,0.067,Normal,2026-03-15,T009,2,W009,M001,OP002,35,2.33,1232,Low,Normal,Steel,Triangular,False,Continue Production
+75,P002,0037,0.162,Slight Whitening,2026-03-16,T001,2,W001,M005,OP001,45,9.75,1512,Low,Monitor,Steel,Triangular,False,Monitor Tool
+76,P015,0038,0.152,Slight Whitening,2026-03-17,T005,1,W001,M001,OP005,28,9.73,1183,Low,Monitor,Steel,Romboid,False,Monitor Tool
+77,P026,0038,0.141,Slight Whitening,2026-03-18,T007,4,W001,M001,OP005,28,9.73,1183,Low,Monitor,Steel,Romboid,False,Monitor Tool
+78,P033,0038,0.14,Slight Whitening,2026-03-19,T010,1,W001,M001,OP005,28,9.73,1183,Low,Monitor,Steel,Romboid,True,Monitor Tool
+79,P026,0039,0.11,Slight Whitening,2026-03-20,T007,4,W005,M007,OP005,61,3.64,2969,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+80,P002,0040,0.069,Normal,2026-03-21,T001,2,W002,M007,OP009,22,3.43,1186,Low,Normal,Steel,Triangular,False,Continue Production
+81,P029,0040,0.066,Normal,2026-03-22,T008,3,W002,M007,OP009,22,3.43,1186,Low,Normal,Steel,Triangular,True,Continue Production
+82,P035,0040,0.056,Normal,2026-03-23,T010,3,W002,M007,OP009,22,3.43,1186,Low,Normal,Steel,Romboid,True,Continue Production
+83,P009,0041,0.093,Normal,2026-03-24,T003,2,W004,M003,OP007,58,1.72,1473,Medium,Normal,Steel,Romboid,False,Continue Production
+84,P030,0041,0.091,Normal,2026-03-25,T009,1,W004,M003,OP007,58,1.72,1473,Medium,Normal,Steel,Triangular,False,Continue Production
+85,P033,0041,0.088,Normal,2026-03-26,T010,1,W004,M003,OP007,58,1.72,1473,Medium,Normal,Steel,Romboid,True,Continue Production
+86,P004,0042,0.07,Normal,2026-03-27,T002,1,W010,M002,OP010,49,1.16,3455,Medium,Normal,Steel,Romboid,True,Continue Production
+87,P012,0042,0.065,Normal,2026-03-28,T004,1,W010,M002,OP010,49,1.16,3455,Medium,Normal,Steel,Triangular,True,Continue Production
+88,P020,0042,0.071,Normal,2026-03-29,T006,2,W010,M002,OP010,49,1.16,3455,Medium,Normal,Steel,Romboid,False,Continue Production
+89,P011,0043,0.077,Normal,2026-03-30,T003,4,W006,M004,OP010,47,1.0,1182,Medium,Normal,Steel,Romboid,False,Continue Production
+90,P015,0043,0.082,Normal,2026-03-31,T005,1,W006,M004,OP010,47,1.0,1182,Medium,Normal,Steel,Romboid,False,Continue Production
+91,P032,0043,0.084,Normal,2026-04-01,T009,3,W006,M004,OP010,47,1.0,1182,Medium,Normal,Steel,Triangular,False,Continue Production
+92,P026,0044,0.175,Slight Whitening,2026-04-02,T007,4,W006,M003,OP007,76,7.4,3174,High,Monitor,Steel,Romboid,False,Monitor Tool
+93,P034,0044,0.162,Slight Whitening,2026-04-03,T010,2,W006,M003,OP007,76,7.4,3174,High,Monitor,Steel,Romboid,True,Monitor Tool
+94,P008,0045,0.138,Slight Whitening,2026-04-04,T003,1,W006,M005,OP004,61,5.36,1514,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+95,P024,0045,0.137,Slight Whitening,2026-04-05,T007,2,W006,M005,OP004,61,5.36,1514,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+96,P031,0045,0.124,Slight Whitening,2026-04-06,T009,2,W006,M005,OP004,61,5.36,1514,Medium,Monitor,Steel,Triangular,False,Monitor Tool
+97,P013,0046,0.104,Slight Whitening,2026-04-07,T004,2,W009,M005,OP008,27,5.19,2444,Low,Monitor,Steel,Triangular,True,Monitor Tool
+98,P028,0046,0.102,Slight Whitening,2026-04-08,T008,2,W009,M005,OP008,27,5.19,2444,Low,Monitor,Steel,Triangular,True,Monitor Tool
+99,P033,0046,0.09,Normal,2026-04-09,T010,1,W009,M005,OP008,27,5.19,2444,Low,Normal,Steel,Romboid,True,Continue Production
+100,P019,0047,0.156,Slight Whitening,2026-04-10,T006,1,W009,M001,OP006,82,5.57,1353,High,Monitor,Steel,Romboid,False,Monitor Tool
+101,P033,0047,0.154,Slight Whitening,2026-04-11,T010,1,W009,M001,OP006,82,5.57,1353,High,Monitor,Steel,Romboid,True,Monitor Tool
+102,P016,0048,0.121,Slight Whitening,2026-04-12,T005,2,W010,M004,OP008,35,5.65,2004,Low,Monitor,Steel,Romboid,False,Monitor Tool
+103,P011,0049,0.111,Slight Whitening,2026-04-13,T003,4,W006,M004,OP005,83,1.97,1535,High,Monitor,Steel,Romboid,False,Monitor Tool
+104,P035,0049,0.106,Slight Whitening,2026-04-14,T010,3,W006,M004,OP005,83,1.97,1535,High,Monitor,Steel,Romboid,True,Monitor Tool
+105,P013,0050,0.135,Slight Whitening,2026-04-15,T004,2,W010,M007,OP006,75,5.99,3197,High,Monitor,Steel,Triangular,True,Monitor Tool
+106,P022,0050,0.145,Slight Whitening,2026-04-16,T006,4,W010,M007,OP006,75,5.99,3197,High,Monitor,Steel,Romboid,False,Monitor Tool
+107,P017,0051,0.136,Slight Whitening,2026-04-17,T005,3,W003,M007,OP006,37,7.4,3056,Low,Monitor,Aliminium,Romboid,False,Monitor Tool
+108,P019,0051,0.113,Slight Whitening,2026-04-18,T006,1,W003,M007,OP006,37,7.4,3056,Low,Monitor,Aliminium,Romboid,False,Monitor Tool
+109,P011,0052,0.155,Slight Whitening,2026-04-19,T003,4,W006,M006,OP009,95,4.84,2169,High,Monitor,Steel,Romboid,False,Monitor Tool
+110,P013,0052,0.167,Slight Whitening,2026-04-20,T004,2,W006,M006,OP009,95,4.84,2169,High,Monitor,Steel,Triangular,True,Monitor Tool
+111,P031,0052,0.152,Slight Whitening,2026-04-21,T009,2,W006,M006,OP009,95,4.84,2169,High,Monitor,Steel,Triangular,False,Monitor Tool
+112,P022,0053,0.126,Slight Whitening,2026-04-22,T006,4,W009,M001,OP007,47,6.11,2122,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+113,P026,0053,0.124,Slight Whitening,2026-04-23,T007,4,W009,M001,OP007,47,6.11,2122,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+114,P028,0053,0.135,Slight Whitening,2026-04-24,T008,2,W009,M001,OP007,47,6.11,2122,Medium,Monitor,Steel,Triangular,True,Monitor Tool
+115,P001,0054,0.165,Slight Whitening,2026-04-25,T001,1,W006,M002,OP002,96,6.4,2876,High,Monitor,Steel,Triangular,False,Monitor Tool
+116,P015,0054,0.164,Slight Whitening,2026-04-26,T005,1,W006,M002,OP002,96,6.4,2876,High,Monitor,Steel,Romboid,False,Monitor Tool
+117,P031,0055,0.115,Slight Whitening,2026-04-27,T009,2,W004,M001,OP004,29,6.2,1549,Low,Monitor,Steel,Triangular,False,Monitor Tool
+118,P003,0056,0.145,Slight Whitening,2026-04-28,T001,3,W001,M001,OP009,34,9.31,815,Low,Monitor,Steel,Triangular,False,Monitor Tool
+119,P031,0056,0.157,Slight Whitening,2026-04-29,T009,2,W001,M001,OP009,34,9.31,815,Low,Monitor,Steel,Triangular,False,Monitor Tool
+120,P007,0057,0.127,Slight Whitening,2026-04-30,T002,4,W010,M007,OP009,65,5.98,2235,Medium,Monitor,Steel,Romboid,True,Monitor Tool
+121,P003,0058,0.133,Slight Whitening,2026-05-01,T001,3,W002,M007,OP002,62,5.27,3360,Medium,Monitor,Steel,Triangular,False,Monitor Tool
+122,P026,0058,0.118,Slight Whitening,2026-05-02,T007,4,W002,M007,OP002,62,5.27,3360,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+123,P031,0058,0.141,Slight Whitening,2026-05-03,T009,2,W002,M007,OP002,62,5.27,3360,Medium,Monitor,Steel,Triangular,False,Monitor Tool
+124,P028,0059,0.103,Slight Whitening,2026-05-04,T008,2,W002,M007,OP003,33,4.32,1188,Low,Monitor,Steel,Triangular,True,Monitor Tool
+125,P033,0059,0.079,Normal,2026-05-05,T010,1,W002,M007,OP003,33,4.32,1188,Low,Normal,Steel,Romboid,True,Continue Production
+126,P008,0060,0.128,Slight Whitening,2026-05-06,T003,1,W001,M001,OP001,52,6.34,1223,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+127,P015,0060,0.13,Slight Whitening,2026-05-07,T005,1,W001,M001,OP001,52,6.34,1223,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+128,P011,0061,0.118,Slight Whitening,2026-05-08,T003,4,W010,M007,OP003,23,6.56,3146,Low,Monitor,Steel,Romboid,False,Monitor Tool
+129,P013,0061,0.101,Slight Whitening,2026-05-09,T004,2,W010,M007,OP003,23,6.56,3146,Low,Monitor,Steel,Triangular,True,Monitor Tool
+130,P030,0061,0.089,Normal,2026-05-10,T009,1,W010,M007,OP003,23,6.56,3146,Low,Normal,Steel,Triangular,False,Continue Production
+131,P017,0062,0.069,Normal,2026-05-11,T005,3,W005,M004,OP007,37,2.76,3190,Low,Normal,Steel,Romboid,False,Continue Production
+132,P014,0063,0.173,Slight Whitening,2026-05-12,T004,3,W009,M002,OP001,68,9.27,3243,Medium,Monitor,Steel,Triangular,True,Monitor Tool
+133,P003,0064,0.14,Slight Whitening,2026-05-13,T001,3,W005,M001,OP002,94,3.24,2818,High,Monitor,Steel,Triangular,False,Monitor Tool
+134,P018,0064,0.134,Slight Whitening,2026-05-14,T005,4,W005,M001,OP002,94,3.24,2818,High,Monitor,Steel,Romboid,False,Monitor Tool
+135,P034,0064,0.129,Slight Whitening,2026-05-15,T010,2,W005,M001,OP002,94,3.24,2818,High,Monitor,Steel,Romboid,True,Monitor Tool
+136,P014,0065,0.095,Normal,2026-05-16,T004,3,W008,M007,OP008,41,2.66,1710,Low,Normal,Copper,Triangular,True,Continue Production
+137,P015,0065,0.087,Normal,2026-05-17,T005,1,W008,M007,OP008,41,2.66,1710,Low,Normal,Copper,Romboid,False,Continue Production
+138,P032,0065,0.089,Normal,2026-05-18,T009,3,W008,M007,OP008,41,2.66,1710,Low,Normal,Copper,Triangular,False,Continue Production
+139,P019,0066,0.118,Slight Whitening,2026-05-19,T006,1,W002,M005,OP005,73,3.78,2296,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+140,P024,0066,0.116,Slight Whitening,2026-05-20,T007,2,W002,M005,OP005,73,3.78,2296,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+141,P005,0067,0.196,Slight Whitening,2026-05-21,T002,2,W006,M001,OP004,96,9.89,1731,High,Monitor,Steel,Romboid,True,Monitor Tool
+142,P014,0067,0.213,Visible Wear,2026-05-22,T004,3,W006,M001,OP004,96,9.89,1731,High,Replacement Recommend,Steel,Triangular,True,Replace Tool
+143,P015,0068,0.193,Slight Whitening,2026-05-23,T005,1,W008,M007,OP004,97,7.1,829,High,Monitor,Copper,Romboid,False,Monitor Tool
+144,P027,0069,0.104,Slight Whitening,2026-05-24,T008,1,W006,M007,OP003,24,5.49,1635,Low,Monitor,Steel,Triangular,True,Monitor Tool
+145,P030,0069,0.102,Slight Whitening,2026-05-25,T009,1,W006,M007,OP003,24,5.49,1635,Low,Monitor,Steel,Triangular,False,Monitor Tool
+146,P021,0070,0.091,Normal,2026-05-26,T006,3,W007,M002,OP004,50,2.52,2160,Medium,Normal,Copper,Romboid,False,Continue Production
+147,P004,0071,0.127,Slight Whitening,2026-05-27,T002,1,W006,M003,OP004,30,8.59,1500,Low,Monitor,Steel,Romboid,True,Monitor Tool
+148,P009,0072,0.138,Slight Whitening,2026-05-28,T003,2,W007,M006,OP001,41,7.18,1571,Low,Monitor,Copper,Romboid,False,Monitor Tool
+149,P020,0072,0.131,Slight Whitening,2026-05-29,T006,2,W007,M006,OP001,41,7.18,1571,Low,Monitor,Copper,Romboid,False,Monitor Tool
+150,P022,0073,0.105,Slight Whitening,2026-05-30,T006,4,W002,M007,OP003,39,6.29,3265,Low,Monitor,Steel,Romboid,False,Monitor Tool
+151,P025,0074,0.169,Slight Whitening,2026-05-31,T007,3,W004,M004,OP007,92,6.14,2950,High,Monitor,Steel,Romboid,False,Monitor Tool
+152,P022,0075,0.182,Slight Whitening,2026-06-01,T006,4,W005,M001,OP010,93,6.2,2614,High,Monitor,Steel,Romboid,False,Monitor Tool
+153,P026,0075,0.177,Slight Whitening,2026-06-02,T007,4,W005,M001,OP010,93,6.2,2614,High,Monitor,Steel,Romboid,False,Monitor Tool
+154,P017,0076,0.113,Slight Whitening,2026-06-03,T005,3,W006,M003,OP005,50,3.71,3226,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+155,P008,0077,0.102,Slight Whitening,2026-06-04,T003,1,W010,M002,OP004,52,3.21,2859,Medium,Monitor,Steel,Romboid,False,Monitor Tool
+156,P030,0077,0.09,Normal,2026-06-05,T009,1,W010,M002,OP004,52,3.21,2859,Medium,Normal,Steel,Triangular,False,Continue Production
+157,P003,0078,0.127,Slight Whitening,2026-06-06,T001,3,W005,M007,OP005,83,2.92,3315,High,Monitor,Steel,Triangular,False,Monitor Tool
+158,P019,0079,0.084,Normal,2026-06-07,T006,1,W001,M004,OP008,50,2.16,1249,Medium,Normal,Steel,Romboid,False,Continue Production
+159,P025,0079,0.095,Normal,2026-06-08,T007,3,W001,M004,OP008,50,2.16,1249,Medium,Normal,Steel,Romboid,False,Continue Production
+160,P035,0079,0.076,Normal,2026-06-09,T010,3,W001,M004,OP008,50,2.16,1249,Medium,Normal,Steel,Romboid,True,Continue Production
+161,P009,0080,0.067,Normal,2026-06-10,T003,2,W001,M002,OP009,35,1.46,984,Low,Normal,Steel,Romboid,False,Continue Production
+162,P017,0080,0.054,Normal,2026-06-11,T005,3,W001,M002,OP009,35,1.46,984,Low,Normal,Steel,Romboid,False,Continue Production
+163,P032,0080,0.073,Normal,2026-06-12,T009,3,W001,M002,OP009,35,1.46,984,Low,Normal,Steel,Triangular,False,Continue Production
+164,P028,0081,0.058,Normal,2026-06-13,T008,2,W006,M002,OP003,22,1.62,3306,Low,Normal,Steel,Triangular,True,Continue Production
+165,P030,0081,0.055,Normal,2026-06-14,T009,1,W006,M002,OP003,22,1.62,3306,Low,Normal,Steel,Triangular,False,Continue Production
+166,P014,0082,0.181,Slight Whitening,2026-06-15,T004,3,W007,M002,OP005,82,8.32,3458,High,Monitor,Copper,Triangular,True,Monitor Tool
+167,P017,0082,0.185,Slight Whitening,2026-06-16,T005,3,W007,M002,OP005,82,8.32,3458,High,Monitor,Copper,Romboid,False,Monitor Tool
+168,P019,0082,0.181,Slight Whitening,2026-06-17,T006,1,W007,M002,OP005,82,8.32,3458,High,Monitor,Copper,Romboid,False,Monitor Tool
+169,P023,0083,0.148,Slight Whitening,2026-06-18,T007,1,W002,M006,OP001,90,3.18,1405,High,Monitor,Steel,Romboid,False,Monitor Tool
+170,P029,0083,0.125,Slight Whitening,2026-06-19,T008,3,W002,M006,OP001,90,3.18,1405,High,Monitor,Steel,Triangular,True,Monitor Tool
+171,P014,0084,0.144,Slight Whitening,2026-06-20,T004,3,W006,M004,OP006,89,5.3,844,High,Monitor,Steel,Triangular,True,Monitor Tool
+172,P001,0085,0.146,Slight Whitening,2026-06-21,T001,1,W009,M003,OP010,100,3.4,3356,High,Monitor,Steel,Triangular,False,Monitor Tool
+173,P006,0085,0.152,Slight Whitening,2026-06-22,T002,3,W009,M003,OP010,100,3.4,3356,High,Monitor,Steel,Romboid,True,Monitor Tool
+174,P010,0085,0.159,Slight Whitening,2026-06-23,T003,3,W009,M003,OP010,100,3.4,3356,High,Monitor,Steel,Romboid,False,Monitor Tool
+175,P027,0086,0.166,Slight Whitening,2026-06-24,T008,1,W002,M006,OP003,47,9.73,2025,Medium,Monitor,Steel,Triangular,True,Monitor Tool
+176,P003,0087,0.156,Slight Whitening,2026-06-25,T001,3,W006,M001,OP001,90,4.5,1462,High,Monitor,Steel,Triangular,False,Monitor Tool
+177,P001,0088,0.184,Slight Whitening,2026-06-26,T001,1,W007,M003,OP006,70,8.74,1697,Medium,Monitor,Copper,Triangular,False,Monitor Tool
+178,P014,0088,0.166,Slight Whitening,2026-06-27,T004,3,W007,M003,OP006,70,8.74,1697,Medium,Monitor,Copper,Triangular,True,Monitor Tool
+179,P022,0088,0.165,Slight Whitening,2026-06-28,T006,4,W007,M003,OP006,70,8.74,1697,Medium,Monitor,Copper,Romboid,False,Monitor Tool
+180,P016,0089,0.128,Slight Whitening,2026-06-29,T005,2,W009,M007,OP008,96,1.25,2255,High,Monitor,Steel,Romboid,False,Monitor Tool
+181,P011,0090,0.117,Slight Whitening,2026-06-30,T003,4,W002,M001,OP006,41,4.63,2508,Low,Monitor,Steel,Romboid,False,Monitor Tool
+182,P025,0090,0.113,Slight Whitening,2026-07-01,T007,3,W002,M001,OP006,41,4.63,2508,Low,Monitor,Steel,Romboid,False,Monitor Tool
+183,P014,0091,0.169,Slight Whitening,2026-07-02,T004,3,W010,M001,OP010,91,6.3,821,High,Monitor,Steel,Triangular,True,Monitor Tool
+184,P019,0091,0.175,Slight Whitening,2026-07-03,T006,1,W010,M001,OP010,91,6.3,821,High,Monitor,Steel,Romboid,False,Monitor Tool
+185,P023,0091,0.177,Slight Whitening,2026-07-04,T007,1,W010,M001,OP010,91,6.3,821,High,Monitor,Steel,Romboid,False,Monitor Tool
+186,P016,0092,0.076,Normal,2026-07-05,T005,2,W008,M003,OP001,29,2.58,2547,Low,Normal,Copper,Romboid,False,Continue Production
+187,P022,0092,0.069,Normal,2026-07-06,T006,4,W008,M003,OP001,29,2.58,2547,Low,Normal,Copper,Romboid,False,Continue Production
+188,P024,0093,0.096,Normal,2026-07-07,T007,2,W001,M001,OP006,62,1.86,1524,Medium,Normal,Steel,Romboid,False,Continue Production
+189,P016,0094,0.157,Slight Whitening,2026-07-08,T005,2,W003,M007,OP010,62,8.4,2810,Medium,Monitor,Aliminium,Romboid,False,Monitor Tool
+190,P026,0094,0.15,Slight Whitening,2026-07-09,T007,4,W003,M007,OP010,62,8.4,2810,Medium,Monitor,Aliminium,Romboid,False,Monitor Tool
+191,P036,0094,0.169,Slight Whitening,2026-07-10,T010,4,W003,M007,OP010,62,8.4,2810,Medium,Monitor,Aliminium,Romboid,True,Monitor Tool
+192,P035,0095,0.115,Slight Whitening,2026-07-11,T010,3,W009,M002,OP009,28,6.92,2434,Low,Monitor,Steel,Romboid,True,Monitor Tool
+193,P020,0096,0.147,Slight Whitening,2026-07-12,T006,2,W001,M001,OP007,78,6.12,3241,High,Monitor,Steel,Romboid,False,Monitor Tool
+194,P030,0096,0.14,Slight Whitening,2026-07-13,T009,1,W001,M001,OP007,78,6.12,3241,High,Monitor,Steel,Triangular,False,Monitor Tool
+195,P011,0097,0.111,Slight Whitening,2026-07-14,T003,4,W005,M005,OP009,22,7.31,1588,Low,Monitor,Steel,Romboid,False,Monitor Tool
+196,P026,0097,0.097,Normal,2026-07-15,T007,4,W005,M005,OP009,22,7.31,1588,Low,Normal,Steel,Romboid,False,Continue Production
+197,P030,0097,0.105,Slight Whitening,2026-07-16,T009,1,W005,M005,OP009,22,7.31,1588,Low,Monitor,Steel,Triangular,False,Monitor Tool
+198,P018,0098,0.08,Normal,2026-07-17,T005,4,W004,M007,OP004,33,2.75,2174,Low,Normal,Steel,Romboid,False,Continue Production
+199,P031,0098,0.063,Normal,2026-07-18,T009,2,W004,M007,OP004,33,2.75,2174,Low,Normal,Steel,Triangular,False,Continue Production
+200,P001,0099,0.055,Normal,2026-07-19,T001,1,W005,M003,OP002,33,1.65,2788,Low,Normal,Steel,Triangular,False,Continue Production
+201,P014,0099,0.068,Normal,2026-07-20,T004,3,W005,M003,OP002,33,1.65,2788,Low,Normal,Steel,Triangular,True,Continue Production
+202,P025,0099,0.076,Normal,2026-07-21,T007,3,W005,M003,OP002,33,1.65,2788,Low,Normal,Steel,Romboid,False,Continue Production
