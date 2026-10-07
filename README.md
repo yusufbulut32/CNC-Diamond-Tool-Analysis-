@@ -58,6 +58,6 @@ were not available from the internship environment.
 Therefore, the results should not be interpreted as actual
 production performance or cost savings.
 
-[![yusufbulut32/CNC-Diamond-Tool-Analysis - GitHub](https://gh-card.dev/repos/yusufbulut32/CNC-Diamond-Tool-Analysis.svg)](https://github.com/yusufbulut32/CNC-Diamond-Tool-Analysis)
+
 
  
